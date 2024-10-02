@@ -1,4 +1,4 @@
-package com.devteria.hello_spring_boot;
+package com.devteria.hello_spring_boot.lab02;
 
 import java.util.Scanner;
 
